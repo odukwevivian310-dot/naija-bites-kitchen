@@ -1,0 +1,8 @@
+# Packages (npm can re-download these, never upload them)
+node_modules/
+# Build output
+dist/
+# Misc
+.DS_Store
+*.log
+.env
